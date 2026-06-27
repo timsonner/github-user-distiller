@@ -1,4 +1,4 @@
-# Copilot Agent
+# GitHub user distiller
 
 A small Python project for distilling a GitHub user's public repositories into a concise profile.
 
