@@ -1,0 +1,21 @@
+# Python virtual environments
+.venv/
+venv/
+env/
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local runtime artifacts
+profile.json
+*.log
+
+# Temporary directories created by the distiller
+github-user-distill-*/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
